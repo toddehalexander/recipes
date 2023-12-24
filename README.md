@@ -1,5 +1,5 @@
 # Recipe Generator App
-![Recipe 1](screenshots/recipe1.png)
+![Recipe 1](Screenshots/Recipe1.png)
 ![Recipe 2](screenshots/recipe2.png)
 ![Recipe 3](screenshots/recipe3.png)
 ![Recipe 4](screenshots/recipe4.png)
