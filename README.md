@@ -1,6 +1,5 @@
 # Recipe Generator App
-
-<a href="Screenshots/Recipe1.png"><img src="Screenshots/Recipe1.png" alt="Recipe 1"></a>
+<img src="Screenshots/Recipe1.png" width="200" alt="Recipe 1" style="margin-right: 10px;">
 
 ## Api Used
 [Visit The Meal DB](https://www.themealdb.com/api.php)
