@@ -1,5 +1,10 @@
 # Recipe Generator App
-
+![Recipe 1](screenshots/recipe1.png)
+![Recipe 2](screenshots/recipe2.png)
+![Recipe 3](screenshots/recipe3.png)
+![Recipe 4](screenshots/recipe4.png)
+![Recipe 5](screenshots/recipe5.png)
+![Recipe 6](screenshots/recipe6.png)
 ## Api Used
 [Visit The Meal DB](https://www.themealdb.com/api.php)
 
