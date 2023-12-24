@@ -1,8 +1,6 @@
 # Recipe Generator App
 
-[![Recipe 1](Screenshots/Recipe1.png)](Screenshots/Recipe1.png) [![Recipe 2](Screenshots/Recipe2.png)](Screenshots/Recipe2.png) [![Recipe 3](Screenshots/Recipe3.png)](Screenshots/Recipe3.png)
-[![Recipe 4](Screenshots/Recipe4.png)](Screenshots/Recipe4.png) [![Recipe 5](Screenshots/Recipe5.png)](Screenshots/Recipe5.png) [![Recipe 6](Screenshots/Recipe6.png)](Screenshots/Recipe6.png)
-
+<a href="Screenshots/Recipe1.png"><img src="Screenshots/Recipe1.png" alt="Recipe 1"></a>
 
 ## Api Used
 [Visit The Meal DB](https://www.themealdb.com/api.php)
