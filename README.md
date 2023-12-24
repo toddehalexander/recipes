@@ -1,10 +1,29 @@
+<style>
+  .image-collage {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px; /* Adjust the gap as needed */
+  }
+
+  .image-collage a {
+      display: flex;
+      justify-content: center; /* Center the images within the anchor elements */
+  }
+
+</style>
+
+
 # Recipe Generator App
-<img src="Screenshots/Recipe1.png" width="200" alt="Recipe 1">
-<img src="Screenshots/Recipe2.png" width="200" alt="Recipe 2">
-<img src="Screenshots/Recipe3.png" width="200" alt="Recipe 3">
-<img src="Screenshots/Recipe4.png" width="200" alt="Recipe 4">
-<img src="Screenshots/Recipe5.png" width="200" alt="Recipe 5">
-<img src="Screenshots/Recipe6.png" width="200" alt="Recipe 6">
+
+
+<div class="image-collage">
+  <a href="Screenshots/Recipe1.png"><img src="Screenshots/Recipe1.png" alt="Recipe 1"></a>
+  <a href="Screenshots/Recipe2.png"><img src="Screenshots/Recipe2.png" alt="Recipe 2"></a>
+  <a href="Screenshots/Recipe3.png"><img src="Screenshots/Recipe3.png" alt="Recipe 3"></a>
+  <a href="Screenshots/Recipe4.png"><img src="Screenshots/Recipe4.png" alt="Recipe 4"></a>
+  <a href="Screenshots/Recipe5.png"><img src="Screenshots/Recipe5.png" alt="Recipe 5"></a>
+  <a href="Screenshots/Recipe6.png"><img src="Screenshots/Recipe6.png" alt="Recipe 6"></a>
+</div>
 
 ## Api Used
 [Visit The Meal DB](https://www.themealdb.com/api.php)
